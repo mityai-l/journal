@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-04T14:03:30.528Z",
+  "generatedAt": "2026-09-07T06:38:03.281Z",
   "groups": [
     {
       "id": "g_mtk9j80f_hiv62",
@@ -1233,6 +1233,13 @@
       "date": "2026-09-04",
       "subject": "УП.04 Учебная практика",
       "topic": "Разработка плана внедрения"
+    },
+    {
+      "id": "l_mtqu357c_h5zk3",
+      "groupId": "g_mtk9j80f_hiv62",
+      "date": "2026-09-07",
+      "subject": "МДК.04.01 Внедрение, поддержка компьютерных систем и обеспечение качества функционирования компьютерных систем",
+      "topic": "Основные виды работ на этапе сопровождения программного обеспечения Состав работ по внедрению программного обеспечения. Модификация программного обеспечения. Особенности работы служб поддержки"
     }
   ],
   "attendance": [
@@ -2524,6 +2531,186 @@
       "id": "a_mtn0w4oa_0yuwa",
       "lessonId": "l_mtn0w4oa_s97ra",
       "studentId": "s_mtk9x92x_cvq9m",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_sg8gd",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9lckr_wzzoa",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_4974q",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9lhsj_j26cs",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_5vs0m",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9llzw_rml51",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_494ka",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9m7c5_9rmji",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_etc8v",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9mb0k_e9l8t",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_1mulj",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9mgv7_qnis5",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtqu357c_bpj69",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9mn5t_uax0s",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtqu357c_rdtik",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9mrpd_2linh",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_yfnww",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9mvs8_jdfqn",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_jow8e",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9n0j6_e5wnj",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtqu357c_eymnu",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9n4l5_zyk3x",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_ov7qf",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9n8f0_lcjm2",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_6phu7",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9ncl6_ab25w",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtqu357c_49l0b",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9ngd1_dutvk",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_u9br5",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9nllp_lqrdu",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_sg2oo",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9nq66_6yujo",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_7fdwa",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9nxao_tmskz",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_2enof",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9p40y_m3tzr",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_4hpiq",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9p8pw_y1zk5",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtqu357c_rhxog",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9pdgt_nodzs",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_bs6bk",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9phqb_6ljco",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtqu357c_sh34m",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9plq3_l0ssf",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtqu357c_7zvy8",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9ppna_4733i",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_l7je3",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9ptq8_u448l",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_gqm38",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9py7y_0okg7",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_vm7z9",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9q2y6_mudqx",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_9mk4w",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9q8fc_y9bg1",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtqu357c_u6ilh",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9qdti_7q0v4",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_6esgz",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9qp5p_bs8qo",
+      "status": "present"
+    },
+    {
+      "id": "a_mtqu357c_rzlzy",
+      "lessonId": "l_mtqu357c_h5zk3",
+      "studentId": "s_mtk9qtdz_al1ut",
       "status": "present"
     }
   ],

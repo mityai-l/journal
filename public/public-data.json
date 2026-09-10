@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-07T06:41:37.748Z",
+  "generatedAt": "2026-09-10T12:40:42.463Z",
   "groups": [
     {
       "id": "g_mtk9j80f_hiv62",
@@ -1240,6 +1240,41 @@
       "date": "2026-09-07",
       "subject": "МДК.04.01 Внедрение, поддержка компьютерных систем и обеспечение качества функционирования компьютерных систем",
       "topic": "Основные виды работ на этапе сопровождения программного обеспечения Состав работ по внедрению программного обеспечения. Модификация программного обеспечения. Особенности работы служб поддержки"
+    },
+    {
+      "id": "l_mtr7c2zw_t2ypo",
+      "groupId": "g_mtk9jymg_hklm1",
+      "date": "2026-09-07",
+      "subject": "П.04 Учебная практика",
+      "topic": "Разработка плана внедрения разрабатываемого программного обеспечения"
+    },
+    {
+      "id": "l_mts9taf4_fcxqx",
+      "groupId": "g_mtk9kiqj_02six",
+      "date": "2026-09-08",
+      "subject": "ОП.06 Основы проектирования баз данных",
+      "topic": "Основные понятия баз данных"
+    },
+    {
+      "id": "l_mtv4rygj_fxwnb",
+      "groupId": "g_mtk9jymg_hklm1",
+      "date": "2026-09-10",
+      "subject": "МДК.04.01 Внедрение, поддержка компьютерных систем и обеспечение качества функционирования компьютерных систем",
+      "topic": "Основные виды работ на этапе сопровождения программного обеспечения"
+    },
+    {
+      "id": "l_mtv8q6m0_821av",
+      "groupId": "g_mtk9jucz_d7eeu",
+      "date": "2026-09-10",
+      "subject": "МДК.04.01 Внедрение, поддержка компьютерных систем и обеспечение качества функционирования компьютерных систем",
+      "topic": "Внедрение программного обеспечения"
+    },
+    {
+      "id": "l_mtvhoblf_sy0f2",
+      "groupId": "g_mtk9k34b_fayut",
+      "date": "2026-09-10",
+      "subject": "МДК.04.01 Внедрение, поддержка компьютерных систем и обеспечение качества функционирования компьютерных систем",
+      "topic": "Внедрение программного обеспечения"
     }
   ],
   "attendance": [
@@ -2712,6 +2747,852 @@
       "lessonId": "l_mtqu357c_h5zk3",
       "studentId": "s_mtk9qtdz_al1ut",
       "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_xnrll",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn01tf0_ef77d",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_g1u9l",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn01xnx_kjf2v",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_tmhzs",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn021yd_bffht",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtr7c2zw_me3q1",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn026fp_hotxc",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_76le1",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn02cs5_41lee",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtr7c2zw_667fu",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn02h24_aukrm",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_47fat",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn02qud_40rt7",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_7xbq9",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn02uua_fdejx",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_8ujj3",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn0306u_apwkh",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtr7c2zw_zlzux",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn0353e_vxs8v",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_bmzra",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn039bg_1p6ke",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_c1fvv",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn04o25_bh283",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtr7c2zw_67m6j",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn04ryg_vf7t2",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_8frpn",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn04vl9_6zz4u",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_mn89k",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn04ziy_p6dfx",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_rjyca",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn054j5_67fin",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtr7c2zw_t0cjh",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn058dk_1z8fo",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_mi6pr",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn05dhp_74lmp",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtr7c2zw_g4kws",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn05irk_tl3ym",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtr7c2zw_cv8j5",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn05nii_ry0ef",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_tunmk",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn05sxn_ctn2w",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_uw2kp",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn05ws0_ydpkg",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtr7c2zw_neb0d",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn060f6_3p6zf",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtr7c2zw_mhu1w",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn064su_fxyxy",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtr7c2zw_ijhst",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn068im_q4fe0",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtr7c2zw_353m7",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn06cnn_vk11i",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_pq9vm",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn06h1t_c9noz",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_426cy",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn06m5e_pgvbs",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_sj2s5",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn06qy0_cb251",
+      "status": "present"
+    },
+    {
+      "id": "a_mtr7c2zw_3jjt2",
+      "lessonId": "l_mtr7c2zw_t2ypo",
+      "studentId": "s_mtn06vcl_bj0d3",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf4_9jfwe",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0arer_vjaji",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf4_cr4gb",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0auym_poy60",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf4_zmf95",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0ayde_qg2qk",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf4_mgh5w",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0b265_lxfs2",
+      "status": "present"
+    },
+    {
+      "id": "a_mts9taf4_ly341",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0b666_6jvl6",
+      "status": "present"
+    },
+    {
+      "id": "a_mts9taf5_k2t00",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0ba2i_xbuse",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_nuu92",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0bv29_uxv59",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_isg4o",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0byr2_6etxh",
+      "status": "present"
+    },
+    {
+      "id": "a_mts9taf5_7ld34",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0c3c9_u1me7",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_6bo7i",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0c7e2_yjbhp",
+      "status": "present"
+    },
+    {
+      "id": "a_mts9taf5_kaxj7",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0can3_ypfhx",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_qp07y",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0cerg_mcsvm",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_9fg5l",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0cihl_u9uz4",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_v2wgx",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0cmo6_e1q37",
+      "status": "present"
+    },
+    {
+      "id": "a_mts9taf5_kax8m",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0cqy6_rtwdh",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_qpsof",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0cw2g_iti92",
+      "status": "present"
+    },
+    {
+      "id": "a_mts9taf5_jr5ku",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0d1zi_vi4bh",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_2izl0",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0d5yj_3zrkx",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_t1etp",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0daa1_rbl1a",
+      "status": "present"
+    },
+    {
+      "id": "a_mts9taf5_qk33r",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0deqv_oa6m8",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_yktbv",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0dihm_r416l",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_684lc",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0dlwr_1j3oa",
+      "status": "present"
+    },
+    {
+      "id": "a_mts9taf5_n4vvr",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0dpx1_q6oc5",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_s1gtu",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0dtlm_dhk6t",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_3v9wl",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0dy3v_bb73k",
+      "status": "present"
+    },
+    {
+      "id": "a_mts9taf5_s2cgi",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0e314_oqf6u",
+      "status": "absent"
+    },
+    {
+      "id": "a_mts9taf5_peszs",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0e753_x8m3q",
+      "status": "present"
+    },
+    {
+      "id": "a_mts9taf5_6s5mu",
+      "lessonId": "l_mts9taf4_fcxqx",
+      "studentId": "s_mtn0eb9k_prbdj",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_0demk",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn01tf0_ef77d",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_g1n7f",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn01xnx_kjf2v",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_r0sf8",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn021yd_bffht",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv4rygj_dpyq0",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn026fp_hotxc",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_h70aa",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn02cs5_41lee",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv4rygj_6zjro",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn02h24_aukrm",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_tfeog",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn02qud_40rt7",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_lo0at",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn02uua_fdejx",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_2f03n",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn0306u_apwkh",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv4rygj_pie9d",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn0353e_vxs8v",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_5gt6f",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn039bg_1p6ke",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_knvvd",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn04o25_bh283",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_nyxwc",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn04ryg_vf7t2",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_8rh0p",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn04vl9_6zz4u",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_cllzw",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn04ziy_p6dfx",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv4rygj_x5cyx",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn054j5_67fin",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv4rygj_dew59",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn058dk_1z8fo",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_twk2k",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn05dhp_74lmp",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv4rygj_fkzsd",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn05irk_tl3ym",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv4rygj_biym9",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn05nii_ry0ef",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv4rygj_mte4v",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn05sxn_ctn2w",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_td1kh",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn05ws0_ydpkg",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv4rygj_8x2jb",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn060f6_3p6zf",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv4rygj_02mnx",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn064su_fxyxy",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_qx7ua",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn068im_q4fe0",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv4rygj_aebyg",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn06cnn_vk11i",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_9hh8t",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn06h1t_c9noz",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_mtuj2",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn06m5e_pgvbs",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv4rygj_ozlae",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn06qy0_cb251",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv4rygj_rclv4",
+      "lessonId": "l_mtv4rygj_fxwnb",
+      "studentId": "s_mtn06vcl_bj0d3",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv8q6m0_bvyeu",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9sxsf_8buqc",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m0_kgwei",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9t2ku_sw9wt",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv8q6m0_z1sw0",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9tccn_lg2b6",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv8q6m1_rdbcx",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9u1q3_wt81l",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv8q6m1_shmw1",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9ust7_9cefk",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_be91t",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9v1n2_xwu1g",
+      "status": "late"
+    },
+    {
+      "id": "a_mtv8q6m1_rzdxo",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9v5nb_ghmww",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv8q6m1_8z5ge",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9va6d_n1oct",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_n1bnv",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9velu_w8t9k",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv8q6m1_uepv3",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9vj4x_2qj4q",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv8q6m1_krmfn",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9volm_z7i73",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_4i545",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9vt4h_e428x",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_bq3lx",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9vxeb_nka44",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv8q6m1_ylyva",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9w1kx_jyl4g",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_yxsrz",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9w5nb_qyhj1",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_u2r9h",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9w992_8u0or",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_wmf2k",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9wdl6_9uutj",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_76tuq",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9whs2_zfpch",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_u411t",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9wlpp_iigxg",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv8q6m1_n328d",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9wpc2_r46l2",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_nj063",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9wt3t_x7m3f",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_dmva7",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9wwrt_y7xeg",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_ubks1",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9x107_x9drd",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtv8q6m1_vmp59",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9x55d_n6sq5",
+      "status": "present"
+    },
+    {
+      "id": "a_mtv8q6m1_r9j7k",
+      "lessonId": "l_mtv8q6m0_821av",
+      "studentId": "s_mtk9x92x_cvq9m",
+      "status": "present"
+    },
+    {
+      "id": "a_mtvhoblf_mav5w",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn077a6_xlfzz",
+      "status": "present"
+    },
+    {
+      "id": "a_mtvhoblf_crub9",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn07aib_765cg",
+      "status": "present"
+    },
+    {
+      "id": "a_mtvhoblf_tstf1",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn07dyl_2osxg",
+      "status": "present"
+    },
+    {
+      "id": "a_mtvhoblf_0lock",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn07jg2_c6qf3",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_vbgs7",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn07o6g_05q2u",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_6hjal",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn07s1s_oce5y",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_5sqjr",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn07vu1_87mr2",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_6sf90",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn07yxw_4loon",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_a6i9f",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn08408_owuq8",
+      "status": "present"
+    },
+    {
+      "id": "a_mtvhoblf_hx4b5",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn088gm_pw54x",
+      "status": "present"
+    },
+    {
+      "id": "a_mtvhoblf_obx3e",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn08byf_61scn",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_alf8j",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn08fge_g95w7",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_t0mly",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn08jb7_frjhx",
+      "status": "present"
+    },
+    {
+      "id": "a_mtvhoblf_kzhw2",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn08n16_ebj0l",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_pqq4d",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn08qvd_3m8za",
+      "status": "present"
+    },
+    {
+      "id": "a_mtvhoblf_u30k2",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn08ukz_vem1z",
+      "status": "present"
+    },
+    {
+      "id": "a_mtvhoblf_e0bus",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn08y3p_7w2b0",
+      "status": "present"
+    },
+    {
+      "id": "a_mtvhoblf_d0t2t",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn092c5_4c6y6",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_y2ns9",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn096yw_wsa54",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_vvlhh",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn09bmi_5nb93",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_ucabs",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn09ewh_4vp3u",
+      "status": "present"
+    },
+    {
+      "id": "a_mtvhoblf_3oyut",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn09jqy_giyaf",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_m0f2w",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn09nfz_1t5kn",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_99pms",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn09s3p_gfv5v",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_3dqfx",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn09w9p_a38hi",
+      "status": "present"
+    },
+    {
+      "id": "a_mtvhoblf_mpadu",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn0a0a5_6a6pt",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_mbao1",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn0a4ck_qesgk",
+      "status": "absent"
+    },
+    {
+      "id": "a_mtvhoblf_1zrd8",
+      "lessonId": "l_mtvhoblf_sy0f2",
+      "studentId": "s_mtn0a8j2_h80f9",
+      "status": "absent"
     }
   ],
   "practicals": [],

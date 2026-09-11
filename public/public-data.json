@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-11T07:16:35.887Z",
+  "generatedAt": "2026-09-11T07:42:22.947Z",
   "groups": [
     {
       "id": "g_mtk9j80f_hiv62",
@@ -21,10 +21,6 @@
     {
       "id": "g_mtk9k890_8m14x",
       "name": "ИСП291"
-    },
-    {
-      "id": "g_mtk9kgq9_0o7tz",
-      "name": "м"
     },
     {
       "id": "g_mtk9kiqj_02six",
@@ -3967,6 +3963,193 @@
     {
       "id": "ps_mtwlb21q_49t4c",
       "workId": "p_mtwlb21q_7m1zt",
+      "studentId": "s_mtk9qtdz_al1ut",
+      "score": 0
+    },
+    {
+      "id": "p_mtwnc14w_bckdd",
+      "groupId": "g_mtk9j80f_hiv62",
+      "date": "2026-09-07",
+      "title": "Практическая работа №1",
+      "max": 10
+    },
+    {
+      "id": "ps_mtwnc14w_owo6s",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9lckr_wzzoa",
+      "score": 3
+    },
+    {
+      "id": "ps_mtwnc14w_qsm83",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9lhsj_j26cs",
+      "score": 6
+    },
+    {
+      "id": "ps_mtwnc14w_mrh51",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9llzw_rml51",
+      "score": 3
+    },
+    {
+      "id": "ps_mtwnc14w_ey795",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9m7c5_9rmji",
+      "score": 3
+    },
+    {
+      "id": "ps_mtwnc14w_yalek",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9mb0k_e9l8t",
+      "score": 0
+    },
+    {
+      "id": "ps_mtwnc14w_8bhy1",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9mgv7_qnis5",
+      "score": 5
+    },
+    {
+      "id": "ps_mtwnc14w_mww3y",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9mn5t_uax0s",
+      "score": 0
+    },
+    {
+      "id": "ps_mtwnc14x_n4xmk",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9mrpd_2linh",
+      "score": 6
+    },
+    {
+      "id": "ps_mtwnc14x_wkrha",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9mvs8_jdfqn",
+      "score": 3
+    },
+    {
+      "id": "ps_mtwnc14x_zhkfr",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9n0j6_e5wnj",
+      "score": 0
+    },
+    {
+      "id": "ps_mtwnc14x_z4kos",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9n4l5_zyk3x",
+      "score": 6
+    },
+    {
+      "id": "ps_mtwnc14x_hhpp1",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9n8f0_lcjm2",
+      "score": 4
+    },
+    {
+      "id": "ps_mtwnc14x_shcuc",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9ncl6_ab25w",
+      "score": 4
+    },
+    {
+      "id": "ps_mtwnc14x_6fy09",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9ngd1_dutvk",
+      "score": 0
+    },
+    {
+      "id": "ps_mtwnc14x_gragb",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9nllp_lqrdu",
+      "score": 3
+    },
+    {
+      "id": "ps_mtwnc14x_68crb",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9nq66_6yujo",
+      "score": 3
+    },
+    {
+      "id": "ps_mtwnc14x_12fwc",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9nxao_tmskz",
+      "score": 0
+    },
+    {
+      "id": "ps_mtwnc14x_0lzhj",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9p40y_m3tzr",
+      "score": 4
+    },
+    {
+      "id": "ps_mtwnc14x_5no0n",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9p8pw_y1zk5",
+      "score": 0
+    },
+    {
+      "id": "ps_mtwnc14x_5ha58",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9pdgt_nodzs",
+      "score": 3
+    },
+    {
+      "id": "ps_mtwnc14x_al24y",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9phqb_6ljco",
+      "score": 8
+    },
+    {
+      "id": "ps_mtwnc14x_s8baf",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9plq3_l0ssf",
+      "score": 3
+    },
+    {
+      "id": "ps_mtwnc14x_amevi",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9ppna_4733i",
+      "score": 0
+    },
+    {
+      "id": "ps_mtwnc14x_qypab",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9ptq8_u448l",
+      "score": 0
+    },
+    {
+      "id": "ps_mtwnc14x_ci90b",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9py7y_0okg7",
+      "score": 4
+    },
+    {
+      "id": "ps_mtwnc14x_n7pog",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9q2y6_mudqx",
+      "score": 3
+    },
+    {
+      "id": "ps_mtwnc14x_ljxfv",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9q8fc_y9bg1",
+      "score": 0
+    },
+    {
+      "id": "ps_mtwnc14x_u0eir",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9qdti_7q0v4",
+      "score": 6
+    },
+    {
+      "id": "ps_mtwnc14x_nhrws",
+      "workId": "p_mtwnc14w_bckdd",
+      "studentId": "s_mtk9qp5p_bs8qo",
+      "score": 0
+    },
+    {
+      "id": "ps_mtwnc14x_9i8jh",
+      "workId": "p_mtwnc14w_bckdd",
       "studentId": "s_mtk9qtdz_al1ut",
       "score": 0
     }
